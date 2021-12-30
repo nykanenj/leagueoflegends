@@ -1,16 +1,56 @@
 {
-    "files": [
+  "files": [
+    {
+      "name": "Input.ini",
+      "sections": [
         {
-            "name": "game.cfg",
-            "persisted": true
+          "name": "GameEvents",
+          "settings": [
+            {
+                "name": "evtOnUIMouse4Pan",
+                "value": "[<Unbound>]"
+            },
+            {
+                "name": "evtPlayerAttackMove",
+                "value": "[<Unbound>]"
+            },
+            {
+                "name": "evtPlayerAttackMoveClick",
+                "value": "[Button 1]"
+            },
+            {
+                "name": "evtPlayerSelectClick",
+                "value": "[Button 3]"
+            }
+          ]
         },
         {
-            "name": "input.ini",
-            "persisted": true
+          "name": "HUDEvents",
+          "settings": [
+              {
+                  "name": "evntHudMoveableSelect",
+                  "value": "[Button 3]"
+              },
+              {
+                  "name": "evtOnUIMouse1",
+                  "value": "[Button 1], [Button 3]"
+              },
+              {
+                  "name": "evtOnUIMouse2",
+                  "value": "[Button 2]"
+              }
+          ]
         },
         {
-            "name": "PersistedSettings.json",
-            "persisted": true
-        }
-    ]
+          "name": "MouseSettings",
+          "settings": [
+              {
+                  "name": "RollerButtonSpeed",
+                  "value": "0"
+              }
+          ]
+        } 
+      ]
+    }
+  ]
 }
