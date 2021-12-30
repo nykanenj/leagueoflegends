@@ -358,7 +358,7 @@
                         },
                         {
                             "name": "ShowSpellCosts",
-                            "value": "0"
+                            "value": "1"
                         },
                         {
                             "name": "ShowStatsPanel_StatStones",
@@ -366,7 +366,7 @@
                         },
                         {
                             "name": "ShowSummonerNames",
-                            "value": "1"
+                            "value": "0"
                         },
                         {
                             "name": "ShowSummonerNamesInScoreboard",
@@ -509,7 +509,7 @@
                         },
                         {
                             "name": "MusicMute",
-                            "value": "0"
+                            "value": "1"
                         },
                         {
                             "name": "MusicVolume",
