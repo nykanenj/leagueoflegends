@@ -8,7 +8,7 @@ The important files (input.ini, PersistedSettings.json) found by default in C:\R
 
 Apparently PersistedSettings.json is the more important file but it is kept server-side. Use C:\Riot Games\League of Legends\DATA\CFG\defaults\SettingsToPersist.json to configure the server-side file or make configurations through the LOL client in-game.
 
-However it is unclear how to configure SettingsToPersist.json, so one option is to make PersistedSettings.json Read-Only. This way it will not be overwritten by whatever is on the riot servers...
+However it is unclear how to configure SettingsToPersist.json, so one option is to make PersistedSettings.json Read-Only. This way it will not be overwritten by whatever is on the riot servers... There are some hints in the version history of SettingsToPersist.json in this repo, but they are unverified, just some stuff I found on the internet. The latest file should always be a verified working version.
 
 ## Goals
 
