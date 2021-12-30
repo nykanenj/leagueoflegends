@@ -655,55 +655,55 @@
                         },
                         {
                             "name": "evtNormalCastAvatarSpell1",
-                            "value": ""
+                            "value": "[Shift][d]"
                         },
                         {
                             "name": "evtNormalCastAvatarSpell2",
-                            "value": ""
+                            "value": "[Shift][f]"
                         },
                         {
                             "name": "evtNormalCastItem1",
-                            "value": ""
+                            "value": "[Shift][1]"
                         },
                         {
                             "name": "evtNormalCastItem2",
-                            "value": ""
+                            "value": "[Shift][2]"
                         },
                         {
                             "name": "evtNormalCastItem3",
-                            "value": ""
+                            "value": "[Shift][3]"
                         },
                         {
                             "name": "evtNormalCastItem4",
-                            "value": ""
+                            "value": "[Shift][5]"
                         },
                         {
                             "name": "evtNormalCastItem5",
-                            "value": ""
+                            "value": "[Shift][6]"
                         },
                         {
                             "name": "evtNormalCastItem6",
-                            "value": ""
+                            "value": "[Shift][7]"
                         },
                         {
                             "name": "evtNormalCastSpell1",
-                            "value": ""
+                            "value": "[Shift][q]"
                         },
                         {
                             "name": "evtNormalCastSpell2",
-                            "value": ""
+                            "value": "[Shift][w]"
                         },
                         {
                             "name": "evtNormalCastSpell3",
-                            "value": ""
+                            "value": "[Shift][e]"
                         },
                         {
                             "name": "evtNormalCastSpell4",
-                            "value": ""
+                            "value": "[Shift][r]"
                         },
                         {
                             "name": "evtNormalCastVisionItem",
-                            "value": ""
+                            "value": "[Shift][4]"
                         },
                         {
                             "name": "evtOnUIMouse4Pan",
@@ -907,55 +907,55 @@
                         },
                         {
                             "name": "evtSmartCastAvatarSpell1",
-                            "value": "[Shift][d]"
+                            "value": "[d]"
                         },
                         {
                             "name": "evtSmartCastAvatarSpell2",
-                            "value": "[Shift][f]"
+                            "value": "[f]"
                         },
                         {
                             "name": "evtSmartCastItem1",
-                            "value": "[Shift][1]"
+                            "value": "[1]"
                         },
                         {
                             "name": "evtSmartCastItem2",
-                            "value": "[Shift][2]"
+                            "value": "[2]"
                         },
                         {
                             "name": "evtSmartCastItem3",
-                            "value": "[Shift][3]"
+                            "value": "[3]"
                         },
                         {
                             "name": "evtSmartCastItem4",
-                            "value": "[Shift][5]"
+                            "value": "[5]"
                         },
                         {
                             "name": "evtSmartCastItem5",
-                            "value": "[Shift][6]"
+                            "value": "[6]"
                         },
                         {
                             "name": "evtSmartCastItem6",
-                            "value": "[Shift][7]"
+                            "value": "[7]"
                         },
                         {
                             "name": "evtSmartCastSpell1",
-                            "value": "[Shift][q]"
+                            "value": "[q]"
                         },
                         {
                             "name": "evtSmartCastSpell2",
-                            "value": "[Shift][w]"
+                            "value": "[w]"
                         },
                         {
                             "name": "evtSmartCastSpell3",
-                            "value": "[Shift][e]"
+                            "value": "[e]"
                         },
                         {
                             "name": "evtSmartCastSpell4",
-                            "value": "[Shift][r]"
+                            "value": "[r]"
                         },
                         {
                             "name": "evtSmartCastVisionItem",
-                            "value": "[Shift][4]"
+                            "value": "[4]"
                         },
                         {
                             "name": "evtSmartCastWithIndicatorAvatarSpell1",
