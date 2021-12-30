@@ -1,0 +1,16 @@
+{
+    "files": [
+        {
+            "name": "game.cfg",
+            "persisted": true
+        },
+        {
+            "name": "input.ini",
+            "persisted": true
+        },
+        {
+            "name": "PersistedSettings.json",
+            "persisted": true
+        }
+    ]
+}
