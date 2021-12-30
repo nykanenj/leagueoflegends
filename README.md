@@ -1,6 +1,14 @@
 # League Of Legends Keybindings
 
-These are the keybindings I use for league of legends. The important files (input.ini, PersistedSettings.json) found by default in C:\Riot Games\League of Legends\Config
+These are the keybindings I use for league of legends. 
+
+##Tips For Configuring
+
+The important files (input.ini, PersistedSettings.json) found by default in C:\Riot Games\League of Legends\Config
+
+Apparently PersistedSettings.json is the more important file but it is kept server-side. Use C:\Riot Games\League of Legends\DATA\CFG\defaults\SettingsToPersist.json to configure the server-side file or make configurations through the LOL client in-game.
+
+However it is unclear how to configure SettingsToPersist.json, so one option is to make PersistedSettings.json Read-Only. This way it will not be overwritten by whatever is on the riot servers...
 
 ## Goals
 
