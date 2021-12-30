@@ -80,7 +80,7 @@
                         },
                         {
                             "name": "Experience_Enabled",
-                            "value": "0"
+                            "value": "1"
                         },
                         {
                             "name": "Gold_Enabled",
@@ -125,7 +125,7 @@
                     "settings": [
                         {
                             "name": "AutoAcquireTarget",
-                            "value": "1"
+                            "value": "0"
                         },
                         {
                             "name": "CfgVersion",
@@ -137,7 +137,7 @@
                         },
                         {
                             "name": "CursorScale",
-                            "value": "0.5000"
+                            "value": "0.4000"
                         },
                         {
                             "name": "EnableAudio",
@@ -149,11 +149,11 @@
                         },
                         {
                             "name": "EnableScreenShake",
-                            "value": "1"
+                            "value": "0"
                         },
                         {
                             "name": "EnableTargetedAttackMove",
-                            "value": "0"
+                            "value": "1"
                         },
                         {
                             "name": "GameMouseSpeed",
@@ -246,6 +246,10 @@
                         },
                         {
                             "name": "GlobalScale",
+                            "value": "0.4900"
+                        },
+                        {
+                            "name": "GlobalScaleReplay",
                             "value": "1.0000"
                         },
                         {
@@ -297,6 +301,14 @@
                             "value": "1.0000"
                         },
                         {
+                            "name": "ReplayMiddleMouseScrollSpeed",
+                            "value": "0.5000"
+                        },
+                        {
+                            "name": "ReplayScrollSmoothingEnabled",
+                            "value": "1"
+                        },
+                        {
                             "name": "ScrollSmoothingEnabled",
                             "value": "0"
                         },
@@ -306,7 +318,7 @@
                         },
                         {
                             "name": "ShowAllChannelChat",
-                            "value": "0"
+                            "value": "1"
                         },
                         {
                             "name": "ShowAllChannelChatSpectator",
@@ -342,7 +354,7 @@
                         },
                         {
                             "name": "ShowPlayerStats",
-                            "value": "0"
+                            "value": "1"
                         },
                         {
                             "name": "ShowSpellCosts",
@@ -403,11 +415,11 @@
                         },
                         {
                             "name": "NativeOffsetX",
-                            "value": "0.0000"
+                            "value": "0.0365"
                         },
                         {
                             "name": "NativeOffsetY",
-                            "value": "0.0000"
+                            "value": "0.0213"
                         }
                     ]
                 },
@@ -539,7 +551,7 @@
                     "settings": [
                         {
                             "name": "evntPlayerPing",
-                            "value": "[Alt][Button 1]"
+                            "value": "[Button 5]"
                         },
                         {
                             "name": "evntPlayerPingCursor",
@@ -551,15 +563,15 @@
                         },
                         {
                             "name": "evntPlayerPingDanger",
-                            "value": "[Ctrl][Button 1]"
+                            "value": ""
                         },
                         {
                             "name": "evtCameraLockToggle",
-                            "value": "[y]"
+                            "value": "[Space]"
                         },
                         {
                             "name": "evtCameraSnap",
-                            "value": "[Space]"
+                            "value": "[y]"
                         },
                         {
                             "name": "evtCastAvatarSpell1",
@@ -703,7 +715,7 @@
                         },
                         {
                             "name": "evtPetMoveClick",
-                            "value": "[Alt][Button 2],[Ctrl][Button 2]"
+                            "value": "[Ctrl][Button 1]"
                         },
                         {
                             "name": "evtPlayerAttackMove",
@@ -711,7 +723,7 @@
                         },
                         {
                             "name": "evtPlayerAttackMoveClick",
-                            "value": "[Shift][Button 2]"
+                            "value": "[Button 2]"
                         },
                         {
                             "name": "evtPlayerAttackOnlyClick",
@@ -719,11 +731,11 @@
                         },
                         {
                             "name": "evtPlayerHoldPosition",
-                            "value": "[h]"
+                            "value": "[Alt]"
                         },
                         {
                             "name": "evtPlayerMoveClick",
-                            "value": "[Button 2],"
+                            "value": "[Button 1]"
                         },
                         {
                             "name": "evtPlayerPingAreaIsWarded",
@@ -744,6 +756,10 @@
                         {
                             "name": "evtPlayerPingRadialDanger",
                             "value": ""
+                        },
+                        {
+                            "name": "evtPlayerSelectClick",
+                            "value": "[Button 2]"
                         },
                         {
                             "name": "evtPlayerStopPosition",
@@ -799,23 +815,23 @@
                         },
                         {
                             "name": "evtSelectAlly1",
-                            "value": "[F2]"
+                            "value": "[F1]"
                         },
                         {
                             "name": "evtSelectAlly2",
-                            "value": "[F3]"
+                            "value": "[F2]"
                         },
                         {
                             "name": "evtSelectAlly3",
-                            "value": "[F4]"
+                            "value": "[F3]"
                         },
                         {
                             "name": "evtSelectAlly4",
-                            "value": "[F5]"
+                            "value": "[F4]"
                         },
                         {
                             "name": "evtSelectSelf",
-                            "value": "[F1]"
+                            "value": ""
                         },
                         {
                             "name": "evtSelfCastAvatarSpell1",
@@ -879,7 +895,7 @@
                         },
                         {
                             "name": "evtShowScoreBoard",
-                            "value": "[o]"
+                            "value": ""
                         },
                         {
                             "name": "evtShowSummonerNames",
@@ -1143,8 +1159,20 @@
                     "name": "HUDEvents",
                     "settings": [
                         {
+                            "name": "evntHudMoveableSelect",
+                            "value": "[Button 1]"
+                        },
+                        {
                             "name": "evtHoldShowScoreBoard",
-                            "value": "[Tab]"
+                            "value": "[F5],[Button 4]"
+                        },
+                        {
+                            "name": "evtOnUIMouse1",
+                            "value": "[Button 1]"
+                        },
+                        {
+                            "name": "evtOnUIMouse2",
+                            "value": "[Button 2]"
                         },
                         {
                             "name": "evtToggleDeathRecapShowcase",
