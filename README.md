@@ -2,7 +2,7 @@
 
 These are the keybindings I use for league of legends. 
 
-##Tips For Configuring
+## Tips For Configuring
 
 The important files (input.ini, PersistedSettings.json) found by default in C:\Riot Games\League of Legends\Config
 
