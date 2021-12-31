@@ -9,7 +9,7 @@
                     "settings": [
                         {
                             "name": "ColorBrightness",
-                            "value": "0.5000"
+                            "value": "0.6300"
                         },
                         {
                             "name": "ColorContrast",
@@ -55,7 +55,7 @@
                     "settings": [
                         {
                             "name": "ColorPalette",
-                            "value": "0"
+                            "value": "1"
                         }
                     ]
                 },
@@ -222,7 +222,7 @@
                         },
                         {
                             "name": "EmoteSize",
-                            "value": "0"
+                            "value": "1"
                         },
                         {
                             "name": "EnableLineMissileVis",
@@ -246,7 +246,7 @@
                         },
                         {
                             "name": "GlobalScale",
-                            "value": "0.4900"
+                            "value": "0.0900"
                         },
                         {
                             "name": "GlobalScaleReplay",
@@ -290,7 +290,7 @@
                         },
                         {
                             "name": "NumericCooldownFormat",
-                            "value": "1"
+                            "value": "2"
                         },
                         {
                             "name": "ObjectTooltips",
