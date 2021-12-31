@@ -318,7 +318,7 @@
                         },
                         {
                             "name": "ShowAllChannelChat",
-                            "value": "1"
+                            "value": "0"
                         },
                         {
                             "name": "ShowAllChannelChatSpectator",
@@ -326,7 +326,7 @@
                         },
                         {
                             "name": "ShowAlliedChat",
-                            "value": "1"
+                            "value": "0"
                         },
                         {
                             "name": "ShowAttackRadius",
@@ -493,7 +493,7 @@
                         },
                         {
                             "name": "AnnouncerMute",
-                            "value": "0"
+                            "value": "1"
                         },
                         {
                             "name": "AnnouncerVolume",
