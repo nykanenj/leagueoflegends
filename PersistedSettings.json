@@ -771,7 +771,7 @@
                         },
                         {
                             "name": "evtRadialEmoteInstantOpen",
-                            "value": "[t]"
+                            "value": "[t], [Button 5]"
                         },
                         {
                             "name": "evtRadialEmoteOpen",
