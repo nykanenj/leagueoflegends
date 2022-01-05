@@ -129,7 +129,7 @@
                         },
                         {
                             "name": "CfgVersion",
-                            "value": "11.24.414.4003"
+                            "value": "12.1.414.6260"
                         },
                         {
                             "name": "CursorOverride",
@@ -258,11 +258,11 @@
                         },
                         {
                             "name": "KeyboardScrollSpeed",
-                            "value": "0.0000"
+                            "value": "0.0600"
                         },
                         {
                             "name": "MapScrollSpeed",
-                            "value": "0.5000"
+                            "value": "0.6000"
                         },
                         {
                             "name": "MiddleClickDragScrollEnabled",
@@ -403,7 +403,7 @@
                         },
                         {
                             "name": "CurrentTab",
-                            "value": "0"
+                            "value": "2"
                         },
                         {
                             "name": "InventoryPanelPinned",
@@ -415,11 +415,11 @@
                         },
                         {
                             "name": "NativeOffsetX",
-                            "value": "0.0365"
+                            "value": "0.0057"
                         },
                         {
                             "name": "NativeOffsetY",
-                            "value": "0.0213"
+                            "value": "0.0333"
                         }
                     ]
                 },
